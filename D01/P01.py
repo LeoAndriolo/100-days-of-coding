@@ -1,4 +1,4 @@
-# Problem 1: Program to display Fibonacci Series.
+# Problem 1: Program to display Fibonacci Series
 
 def fibonacci(n):
     a = 0
@@ -9,7 +9,7 @@ def fibonacci(n):
 
 def main():
     n = int(input("Input: How Many Terms do you want to Display: "))
-    print("Output: ".format(n), end="")
+    print("Output: ", end="")
     for i in range(n):
         print(fibonacci(i)," ", end="")
 
