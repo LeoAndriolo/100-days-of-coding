@@ -1,0 +1,1 @@
+# Problem 5: Program for Removing Multiple Elements
